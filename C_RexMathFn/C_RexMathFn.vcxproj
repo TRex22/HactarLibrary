@@ -62,6 +62,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="C_RexMathFn.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RexMathFn.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
