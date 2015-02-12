@@ -83,7 +83,7 @@ long int PseudoRand (long int a, long int b, long int m)
 
 	return x1;
 }
-THERE ARE STILL PROBLEMS WITH PSEUDO RAND FUNCTIONS
+//THERE ARE STILL PROBLEMS WITH PSEUDO RAND FUNCTIONS
 
  long int PseudoRandGen (long int a, long int b, long int m)
  {
