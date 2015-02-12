@@ -1,0 +1,35 @@
+{
+  "name": "hactarjs",
+  "version": "0.0.1",
+  "description": "My NodeJS library of shared code from other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-script.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TRex22/HactarLibrary.git"
+  },
+  "keywords": [
+    "helper",
+    "shared",
+    "library",
+    "basic",
+    "tasks"
+  ],
+  "author": "Jason Chalom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TRex22/HactarLibrary/issues"
+  },
+  "homepage": "https://github.com/TRex22/HactarLibrary",
+  "dependencies": {
+    "fs": "0.0.2"
+  },
+  "devDependencies": {
+    "chai": "1.10.0",
+    "mocha": "2.0.1",
+    "util": "0.10.3",
+    "istanbul": "0.3.5"
+  }
+}
